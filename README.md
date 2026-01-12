@@ -22,7 +22,6 @@ The agent can chain multiple tools together. For example, if asked _"What is the
 ## 📸 Demo
 
 ![ChainSupport Combo Test](./demo.png)
-_(Upload screenshot terminal combo-mu tadi ke sini)_
 
 ## 🛠️ Tech Stack
 
